@@ -147,9 +147,9 @@ footer nav a {
 header nav{
   justify-content: space-evenly;
   display: flex;
-  margin: 20px 20%;
   align-items: center;
-  
+  padding-bottom: 20px;
+  margin-left: 120px;
 }
 
 header nav a{
@@ -157,8 +157,12 @@ header nav a{
     text-decoration: none;
     font: bold;
 }
-img{
+img {
     display: flex;
-    margin: 10px;
     padding: 10px;
+
+}
+
+div .boxes .box  {
+    background-color: teal;
 }
