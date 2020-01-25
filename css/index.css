@@ -194,3 +194,8 @@ img {
 .middle-content .boxes .box:nth-child(10){
     background-color: dodgerblue;
 }
+.imageboxes {
+    width: 40%;
+    height: 400px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid gray;
